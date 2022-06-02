@@ -16,11 +16,11 @@ If you're curious what TV was like in 1979 then be all means watch the [episode]
 Oh and I lost the game.
 
 
-![Me and Mom]("img/Me-Mon.jpg", "Game Show time")
+![Me and Mom]("/img/Me-Mon.jpg", "Game Show time")
 
 
 
 ![Contract]("img/contract-5.jpg", "The contract")
 
-![Show Title]("img/Pyramid-title-1280w.webp.jpg",  "The show title")
+![Show Title]("/img/Pyramid-title-1280w.webp.jpg",  "The show title")
 
