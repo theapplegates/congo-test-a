@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://magenta-torte-e27fcc.netlify.app/"
+baseURL = "https://congo.paulapplegate.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
